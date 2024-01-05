@@ -1,28 +1,39 @@
-#  :wave: Welcome my github profile !
-###  :mailbox_with_mail: kimsumin411@gmail.com 
+![header](https://capsule-render.vercel.app/api?type=wave&color=97DBAE&text=Sumin%20Kim&fontSize=90)
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+###  :clipboard: Languages
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+
+###  :clipboard: Framework & Platform
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84"/>
  <br/>
+ <br/>
+
+#### 🐬 SU-log
+<div style="display:flex; flex-direction:row;">
+     <a href="https://li-yo.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
  
-####  :clipboard: Once I've Used 
-<!--
-**Sumin0411/Sumin0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dduxmin&theme=default)](https://dduxmin.tistory.com/)
+</div><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=Black"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=Black"/>
- <br/>
- <br/>
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin0411&layout=compact&theme=)](https://github.com/[Sumin0411/github-readme-stats](https://github.com/Sumin0411/Sumin0411))
 
 </div>
