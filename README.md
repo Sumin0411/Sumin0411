@@ -25,6 +25,9 @@
  <br/>
  <br/>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin0411&layout=compact&theme=)](https://github.com/[Sumin0411/github-readme-stats](https://github.com/Sumin0411/Sumin0411))
+
 #### 🐬 SU-log
 <div style="display:flex; flex-direction:row;">
      <a href="https://li-yo.tistory.com">
@@ -34,6 +37,5 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dduxmin&theme=default)](https://dduxmin.tistory.com/)
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumin0411&layout=compact&theme=)](https://github.com/[Sumin0411/github-readme-stats](https://github.com/Sumin0411/Sumin0411))
 
 </div>
